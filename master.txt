@@ -1,1 +1,2 @@
 this is master txt file 
+This is to modify the main txt file as per assignment2
